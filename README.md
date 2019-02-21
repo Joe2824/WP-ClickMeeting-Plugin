@@ -14,4 +14,7 @@ You could use following CF7 Get keys:
 [dynamictext dynamicname “CF7_GET key=’seminar'”]
 [dynamictext dynamicname “CF7_GET key=’seminar_day'”]
 [dynamictext dynamicname “CF7_GET key=’seminar_time'”]
+```
+
+### Add the listing with following shortcode: [clickmeeting]
 
